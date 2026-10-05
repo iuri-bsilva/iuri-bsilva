@@ -4,7 +4,7 @@ Sou Analista de Redes em transição para a área de desenvolvimento e estou bus
 
 Meu foco é o desenvolvimento backend com PHP e Laravel. Minha experiência em redes contribui com conhecimentos em Linux, infraestrutura, monitoramento e resolução de problemas.
 
-## Tecnologias
+## 🛠️ Tecnologias e ferramentas
 
 ### Desenvolvimento
 
@@ -42,4 +42,4 @@ Busco uma oportunidade para aplicar meus conhecimentos em desenvolvimento, colab
 ## Contato
 
 [LinkedIn](https://www.linkedin.com/in/iuri-braga-769b94237/)
-## 🛠️ Tecnologias e ferramentas
+
